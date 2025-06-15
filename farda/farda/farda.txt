@@ -1,0 +1,3 @@
+nama: farda
+usia: 21
+alamat: Sukabumi
